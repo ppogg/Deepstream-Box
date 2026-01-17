@@ -57,6 +57,13 @@ Please refer to the `docs` folder; each tutorial is divided into five detailed s
 |[YOLOv5u](./docs) | n, s, m, l, x | det | ✅| ✅| ✅
 |[YOLOv5](./docs) | n, s, m, l, x |  det| ✅| ✅| ✅
 
-## Acknowledgments & Contact
+## Reference
+
+https://github.com/NVIDIA-AI-IOT/yolo_deepstream
+https://github.com/NVIDIA-AI-IOT/deepstream_pose_estimation
+https://github.com/marcoslucianops/DeepStream-Yolo-Pose
+https://github.com/marcoslucianops/DeepStream-Yolo-Seg
+
+## Acknowledgments
 
 
