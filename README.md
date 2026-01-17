@@ -45,6 +45,7 @@ Please refer to the `docs` folder; each tutorial is divided into five detailed s
 |[YOLO-Master](./docs) | n, s, m, l, x | cls, det, seg | ✅| ✅| ✅
 |[Fast-SAM](./docs) | s, x | seg | ✅| ❌| ❌
 |[Swim-transformer](./docs) | tiny, base, large | cls | ✅| ✅| ✅
+|[RT-DETR](./docs) | l, x | det | ❌| ✅| ✅
 |[YOLO13](./docs) | n, s, m, l, x | det | ✅| ❌| ✅
 |[YOLO12](./docs) | n, s, m, l, x | cls, det, seg | ✅| ✅| ✅
 |[YOLO11](./docs) | n, s, m, l, x | cls, det, pose, seg | ✅| ✅| ✅
