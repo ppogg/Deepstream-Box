@@ -60,8 +60,11 @@ Please refer to the `docs` folder; each tutorial is divided into five detailed s
 ## Reference
 
 https://github.com/NVIDIA-AI-IOT/yolo_deepstream
+
 https://github.com/NVIDIA-AI-IOT/deepstream_pose_estimation
+
 https://github.com/marcoslucianops/DeepStream-Yolo-Pose
+
 https://github.com/marcoslucianops/DeepStream-Yolo-Seg
 
 ## Acknowledgments
