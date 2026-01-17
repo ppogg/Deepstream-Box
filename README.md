@@ -59,8 +59,4 @@ Please refer to the `docs` folder; each tutorial is divided into five detailed s
 
 ## Acknowledgments & Contact
 
-Any contributions, questions and discussions are welcomed, contact me by following info.
 
-E-mail: wangxinyu_es@163.com
-
-WeChat ID: wangxinyu0375 (可加我微信进tensorrtx交流群，**备注：tensorrtx**)
