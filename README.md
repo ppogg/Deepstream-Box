@@ -63,9 +63,12 @@ Please refer to the `docs` folder; each tutorial is divided into five detailed s
 ![lv_0_20260117103930](https://github.com/user-attachments/assets/e815d5ff-aa25-4bab-a47f-cde270cd6927)
 
 ### Action
-<video src='https://github.com/ppogg/DB-assets/releases/download/v0.0/pose_result.mp4' controls width='100%'></video>
+
+![lv_0_20260117105509](https://github.com/user-attachments/assets/47272f7c-d6f0-4749-8594-6c19c87483c4)
+
 ### Segment
-<video src='https://github.com/ppogg/DB-assets/releases/download/v0.0/seg_result.mp4' controls width='100%'></video>
+
+![lv_0_20260117105620](https://github.com/user-attachments/assets/20c31c02-02ae-4b44-b432-044f8d8fff93)
 
 ## Reference
 
