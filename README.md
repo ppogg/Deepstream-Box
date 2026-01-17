@@ -62,7 +62,7 @@ Please refer to the `docs` folder; each tutorial is divided into five detailed s
 <table border="0">
   <!-- 第一行：Detection -->
   <tr>
-    <td align="center" style="font-weight: bold; background-color: #f6f8fa; vertical-align: middle; padding: 10px; width: 200px;">
+    <td align="center" style="font-weight: bold; background-color: #f6f8fa; vertical-align: middle; padding: 10px; width: 25%">
       <b>Detection</b>
     </td>
     <td>
@@ -71,7 +71,7 @@ Please refer to the `docs` folder; each tutorial is divided into five detailed s
   </tr>
   <!-- 第二行：Action -->
   <tr>
-    <td align="center" style="font-weight: bold; background-color: #f6f8fa; vertical-align: middle; padding: 10px; width: 30%">
+    <td align="center" style="font-weight: bold; background-color: #f6f8fa; vertical-align: middle; padding: 10px;width: 20%">
       <b>Action</b>
     </td>
     <td>
@@ -80,7 +80,7 @@ Please refer to the `docs` folder; each tutorial is divided into five detailed s
   </tr>
   <!-- 第三行：Segment -->
   <tr>
-    <td align="center" style="font-weight: bold; background-color: #f6f8fa; vertical-align: middle; padding: 10px; width: 30%">
+    <td align="center" style="font-weight: bold; background-color: #f6f8fa; vertical-align: middle; padding: 10px;width: 20%">
       <b>Segment</b>
     </td>
     <td>
