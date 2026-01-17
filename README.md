@@ -59,9 +59,7 @@ Please refer to the `docs` folder; each tutorial is divided into five detailed s
 
 ## Run
 ### Detection
-
-https://github.com/user-attachments/assets/4841b978-d2bb-424f-8527-279c50555397
-
+<video src="[https://github.com/你的用户名/仓库名/raw/main/你的视频文件名.mp4](https://release-assets.githubusercontent.com/github-production-release-asset/1136074999/0b16768f-9987-42d5-9f3a-f6d77d8d92b5?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-01-17T03%3A56%3A55Z&rscd=attachment%3B+filename%3Ddet_result.mp4&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-01-17T02%3A56%3A48Z&ske=2026-01-17T03%3A56%3A55Z&sks=b&skv=2018-11-09&sig=VYWOx3vt2it9Ujg0t74OGYQvLUDmsBOIzyxrDNGYkZ4%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc2ODYyMDA1OCwibmJmIjoxNzY4NjE5NzU4LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.e5aupBwJpkn2E5WrVkojQaciQtl5p8SLx5i-fBrsE1E&response-content-disposition=attachment%3B%20filename%3Ddet_result.mp4&response-content-type=application%2Foctet-stream)" width="800" controls></video>
 ### Action
 <video src='https://github.com/ppogg/DB-assets/releases/download/v0.0/pose_result.mp4' controls width='100%'></video>
 ### Segment
