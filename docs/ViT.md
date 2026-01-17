@@ -20,7 +20,7 @@ git clone https://github.com/microsoft/Swin-Transformer.git
 #### 1.2 Download the deepstreamx repo
 
 ```
-git clone https://github.com/ppogg/deepstreamx.git
+git clone https://github.com/ppogg/Deepstream-Box.git
 ```
 
 #### 1.3 Copy export file
