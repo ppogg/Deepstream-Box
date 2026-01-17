@@ -58,16 +58,9 @@ Please refer to the `docs` folder; each tutorial is divided into five detailed s
 |[YOLOv5](./docs) | n, s, m, l, x |  det| ✅| ✅| ✅
 
 ## Run
-### Detection
 
 ![lv_0_20260117103930](https://github.com/user-attachments/assets/e815d5ff-aa25-4bab-a47f-cde270cd6927)
-
-### Action
-
 ![lv_0_20260117105509](https://github.com/user-attachments/assets/47272f7c-d6f0-4749-8594-6c19c87483c4)
-
-### Segment
-
 ![lv_0_20260117105620](https://github.com/user-attachments/assets/20c31c02-02ae-4b44-b432-044f8d8fff93)
 
 ## Reference
