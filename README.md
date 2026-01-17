@@ -71,7 +71,7 @@ Please refer to the `docs` folder; each tutorial is divided into five detailed s
   </tr>
   <!-- 第二行：Action -->
   <tr>
-    <td align="center" style="font-weight: bold; background-color: #f6f8fa; vertical-align: middle; padding: 10px;">
+    <td align="center" style="font-weight: bold; background-color: #f6f8fa; vertical-align: middle; padding: 10px; width: 30%">
       <b>Action</b>
     </td>
     <td>
@@ -80,7 +80,7 @@ Please refer to the `docs` folder; each tutorial is divided into five detailed s
   </tr>
   <!-- 第三行：Segment -->
   <tr>
-    <td align="center" style="font-weight: bold; background-color: #f6f8fa; vertical-align: middle; padding: 10px;">
+    <td align="center" style="font-weight: bold; background-color: #f6f8fa; vertical-align: middle; padding: 10px; width: 30%">
       <b>Segment</b>
     </td>
     <td>
