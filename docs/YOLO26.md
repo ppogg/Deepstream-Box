@@ -67,7 +67,7 @@ wget https://github.com/ultralytics/assets/releases/download/v8.4.0/yolo26n-seg.
 **a. export det onnx.**
 
 ```
-python export_ultralytics.py --weight yolo26n.pt --task 0 --dynamic
+python export_ultralytics.py --weight yolo26n.pt --task 5 --dynamic
 ```
 b. export cls onnx.
 
@@ -77,7 +77,7 @@ python export_ultralytics.py --weight yolo26n-cls.pt --task 4 --dynamic
 c. export pose onnx.
 
 ```
-python export_ultralytics.py --weight yolo26n-pose.pt --task 1 --dynamic
+python export_ultralytics.py --weight yolo26n-pose.pt --task 6 --dynamic
 ```
 d. export seg onnx.
 
