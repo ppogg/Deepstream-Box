@@ -17,7 +17,7 @@
 ```
 git clone https://github.com/ultralytics/ultralytics.git
 ```
-#### 1.2 Download the deepstreamx repo
+#### 1.2 Download the D-Box repo
 
 ```
 git clone https://github.com/ppogg/Deepstream-Box.git
