@@ -4,10 +4,10 @@ net-scale-factor=0.0039215697906911373
 #0=RGB, 1=BGR
 model-color-format=0
 onnx-file=../../model_zoo/yolo26/yolo26n.onnx
-model-engine-file=../../model_zoo/yolo26/yolo26l_fp32.engine
+model-engine-file=../../model_zoo/yolo26/yolo26n_int8.engine
 labelfile-path=../coco.txt
 # 0=FP32, 1=INT8, 2=FP16 mode
-network-mode=0
+network-mode=1
 num-detected-classes=80
 gie-unique-id=1
 network-type=0
