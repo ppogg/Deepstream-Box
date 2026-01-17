@@ -28,7 +28,7 @@ git clone https://github.com/ppogg/Deepstream-Box.git
 Copy `export_ultralytics.py`.
 
 ```
-cp Deepstream-Box/scripts/export_ultralytics.py ultralytics/ultralytics/
+cp Deepstream-Box/scripts/export_ultralytics.py ultralytics/
 ```
 
 #### 1.4 Download the model
