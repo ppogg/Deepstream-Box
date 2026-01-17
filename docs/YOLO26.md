@@ -60,7 +60,7 @@ wget https://github.com/ultralytics/assets/releases/download/v8.4.0/yolo26n-seg.
 | :---: | :---: | :---: | :---: |
 | **weight** | str | yolo26n.pt |The original .pt model. |
 | **size** | int |640 |Network input size. |
-| **task** | int |0 |Task type (0-det/1-kpt/2-seg/3-nas/4-cls). |
+| **task** | int |0 |Task type (0-det/1-kpt/2-seg/3-nas/4-cls/5-yolo26_det/6-yolo26_kpt). |
 | **dynamic** | bool |False |Dynamic processing. |
 
 #### 2.2 Generate the ONNX model file.
