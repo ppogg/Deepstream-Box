@@ -59,7 +59,9 @@ Please refer to the `docs` folder; each tutorial is divided into five detailed s
 
 ## Run
 ### Detection
-<video src='https://github.com/ppogg/DB-assets/releases/download/v0.0/det_result.mp4' controls width='100%'></video>
+
+https://github.com/user-attachments/assets/4841b978-d2bb-424f-8527-279c50555397
+
 ### Action
 <video src='https://github.com/ppogg/DB-assets/releases/download/v0.0/pose_result.mp4' controls width='100%'></video>
 ### Segment
