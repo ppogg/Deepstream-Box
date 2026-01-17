@@ -28,7 +28,7 @@ git clone https://github.com/ppogg/Deepstream-Box.git
 Copy `export_vit.py`.
 
 ```
-cp deepstreamx/scripts/export_vit.py Swin-Transformer/
+cp Deepstream-Box/scripts/export_vit.py Swin-Transformer/
 ```
 
 #### 1.4 Download the model
@@ -88,7 +88,7 @@ python ptq.py --onnx swin_tiny_patch4_window7_224.onnx --calib_data images/ --ba
 #### 4.1 Switch to the following directory.
 
 ```
-cd deepstreamx/nvdsinfer_custom_layers
+cd Deepstream-Box/nvdsinfer_custom_layers
 ```
 
 #### 4.2 Set compilation information in the Makefile.
