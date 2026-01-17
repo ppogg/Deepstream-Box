@@ -57,6 +57,14 @@ Please refer to the `docs` folder; each tutorial is divided into five detailed s
 |[YOLOv5u](./docs) | n, s, m, l, x | det | ✅| ✅| ✅
 |[YOLOv5](./docs) | n, s, m, l, x |  det| ✅| ✅| ✅
 
+## Run
+### Detection
+<video src='https://github.com/ppogg/DB-assets/releases/download/v0.0/det_result.mp4' controls width='100%'></video>
+### Action
+<video src='https://github.com/ppogg/DB-assets/releases/download/v0.0/pose_result.mp4' controls width='100%'></video>
+### Segment
+<video src='https://github.com/ppogg/DB-assets/releases/download/v0.0/seg_result.mp4' controls width='100%'></video>
+
 ## Reference
 
 https://github.com/NVIDIA-AI-IOT/yolo_deepstream
