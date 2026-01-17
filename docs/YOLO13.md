@@ -28,7 +28,7 @@ git clone https://github.com/ppogg/Deepstream-Box.git
 Copy `export_ultralytics.py`.
 
 ```
-cp deepstreamx/scripts/export_ultralytics.py yolov13/ultralytics/
+cp Deepstream-Box/scripts/export_ultralytics.py yolov13/ultralytics/
 ```
 
 #### 1.4 Download the model
@@ -88,7 +88,7 @@ python ptq.py --onnx yolov13n.onnx --calib_data images/ --batch_size 32
 #### 4.1 Switch to the following directory.
 
 ```
-cd deepstreamx/nvdsinfer_custom_layers
+cd Deepstream-Box/nvdsinfer_custom_layers
 ```
 
 #### 4.2 Set compilation information in the Makefile.
