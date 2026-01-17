@@ -1,0 +1,30 @@
+[application]
+enable-perf-measurement=1
+perf-measurement-interval-sec=1
+video-save-mode=1
+streammux-timeout=16000
+
+[streammux]
+width=1280
+height=720
+batched-push-timeout=16000
+
+[source]
+type=1 
+uri=../data/masterpose.mp4
+# camera use like that
+# type=2
+# uri=0
+
+[inference]
+config-file-path=../config/yolo26/config_infer_pose_yolo26.txt
+qos=0
+
+[encoder]
+bitrate=4000000
+preset-level=1
+
+[muxer]
+fragment-duration=0
+streamable=0
+faststart=1

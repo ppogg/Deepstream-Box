@@ -1,0 +1,25 @@
+[property]
+gpu-id=0
+net-scale-factor=0.0039215697906911373
+#0=RGB, 1=BGR
+model-color-format=0
+onnx-file=../../model_zoo/yolo13/yolov13n.onnx
+model-engine-file=../../model_zoo/yolo13/yolov13n.engine
+labelfile-path=../coco.txt
+## 0=FP32, 1=INT8, 2=FP16 mode
+network-mode=1
+num-detected-classes=80
+gie-unique-id=1
+network-type=0
+cluster-mode=2
+maintain-aspect-ratio=1
+symmetric-padding=1
+scaling-filter=1
+parse-bbox-func-name=NvDsInferParseCustomYolo13_cuda
+custom-lib-path=../../nvdsinfer_custom_layers/nvdsinfer_custom_layers.so
+
+[class-attrs-all]
+nms-iou-threshold=0.50
+pre-cluster-threshold=0.25
+topk=300
+
