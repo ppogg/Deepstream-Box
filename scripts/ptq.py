@@ -11,7 +11,7 @@ TRT_LOGGER = trt.Logger()
 
 def parse_arguments():
     parser = argparse.ArgumentParser(description='TensorRT Model Quantization Tool')
-    parser.add_argument('--onnx', type=str, default="/home/pogg/DeepStream/Deepstream-Box/model_zoo/yolo26/yolo26l-pose.onnx", help='ONNX model path')
+    parser.add_argument('--onnx', type=str, default="/home/pogg/DeepStream/Deepstream-Box/model_zoo/yolo26/yolo26n-pose.onnx", help='ONNX model path')
     parser.add_argument('--calib_data', type=str, default="/home/pogg/Dataset/coco/images/train2017", help='Calibration data directory path (required for INT8 mode)')
     parser.add_argument('--precision', type=str, default='fp32', choices=['int8', 'fp16', 'tf32', 'fp32'], help='Quantization precision: int8, fp16, tf32, or fp32 (default: int8)')
     parser.add_argument('--batch_size', type=int, default=32, help='Batch size (default: 32)')
