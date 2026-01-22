@@ -20,7 +20,7 @@ For a long time, the author has been committed to developing a more efficient de
 
 ## Dependence
 
-1. Ubantu = 22.04 (PC or Jeston)
+1. Ubantu = 22.04 (PC or Jetson)
 2. TensorRT >= 8.6.1
 3. CUDA >= 12.2
 4. DeepStream >= 7.0
