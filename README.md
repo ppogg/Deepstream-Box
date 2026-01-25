@@ -99,6 +99,8 @@ Please refer to the `docs` folder; each tutorial is divided into five detailed s
   </tr>
 </table>
 
+https://github.com/user-attachments/assets/1b0663d6-db3b-4dfe-9d18-2963740e3f25
+
 ## Reference
 
 https://github.com/NVIDIA-AI-IOT/yolo_deepstream
