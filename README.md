@@ -60,10 +60,11 @@ Please refer to the `docs` folder; each tutorial is divided into five detailed s
 
 
 ## Run
+
 <table border="0">
   <!-- 第一行：Detection -->
   <tr>
-    <td align="center" style="font-weight: bold; background-color: #f6f8fa; vertical-align: middle; padding: 10px; width: 25%">
+    <td align="center" style="font-weight: bold; background-color: #f6f8fa; vertical-align: middle; padding: 10px; width: 20%">
       <b>Detection</b>
     </td>
     <td>
@@ -72,7 +73,7 @@ Please refer to the `docs` folder; each tutorial is divided into five detailed s
   </tr>
   <!-- 第二行：Action -->
   <tr>
-    <td align="center" style="font-weight: bold; background-color: #f6f8fa; vertical-align: middle; padding: 10px;width: 20%">
+    <td align="center" style="font-weight: bold; background-color: #f6f8fa; vertical-align: middle; padding: 10px; width: 20%">
       <b>Action</b>
     </td>
     <td>
@@ -81,7 +82,7 @@ Please refer to the `docs` folder; each tutorial is divided into five detailed s
   </tr>
   <!-- 第三行：Segment -->
   <tr>
-    <td align="center" style="font-weight: bold; background-color: #f6f8fa; vertical-align: middle; padding: 10px;width: 20%">
+    <td align="center" style="font-weight: bold; background-color: #f6f8fa; vertical-align: middle; padding: 10px; width: 20%">
       <b>Segment</b>
     </td>
     <td>
@@ -90,16 +91,14 @@ Please refer to the `docs` folder; each tutorial is divided into five detailed s
   </tr>
   <!-- 第四行：Face -->
   <tr>
-    <td align="center" style="font-weight: bold; background-color: #f6f8fa; vertical-align: middle; padding: 10px;width: 20%">
+    <td align="center" style="font-weight: bold; background-color: #f6f8fa; vertical-align: middle; padding: 10px; width: 20%">
       <b>Face</b>
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/1b0663d6-db3b-4dfe-9d18-2963740e3f25" alt="Segmentation Result" style="width:100%; display:block; border-radius:4px;">
+      <img src="https://github.com/user-attachments/assets/1b0663d6-db3b-4dfe-9d18-2963740e3f25" alt="Face Result" style="width:100%; display:block; border-radius:4px;">
     </td>
   </tr>
 </table>
-
-
 
 ## Reference
 
