@@ -60,6 +60,17 @@ Please refer to the `docs` folder; each tutorial is divided into five detailed s
 
 ## Run
 
+https://github.com/user-attachments/assets/e815d5ff-aa25-4bab-a47f-cde270cd6927
+https://github.com/user-attachments/assets/47272f7c-d6f0-4749-8594-6c19c87483c4
+
+https://github.com/user-attachments/assets/20c31c02-02ae-4b44-b432-044f8d8fff93
+https://github.com/user-attachments/assets/84cfe6f1-a30a-44a1-8d77-504c6fd454da
+
+
+
+
+## Run
+
 <table border="0">
   <!-- 第一行：Detection -->
   <tr>
