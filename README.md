@@ -60,13 +60,6 @@ Please refer to the `docs` folder; each tutorial is divided into five detailed s
 
 
 ## Run
-
-
-
-
-
-
-
 <table border="0">
   <!-- 第一行：Detection -->
   <tr>
@@ -98,7 +91,7 @@ Please refer to the `docs` folder; each tutorial is divided into five detailed s
   <!-- 第四行：Face -->
   <tr>
     <td align="center" style="font-weight: bold; background-color: #f6f8fa; vertical-align: middle; padding: 10px;width: 20%">
-      <b>Segment</b>
+      <b>Face</b>
     </td>
     <td>
       <img src="https://github.com/user-attachments/assets/1b0663d6-db3b-4dfe-9d18-2963740e3f25" alt="Face Result" style="width:100%; display:block; border-radius:4px;">
