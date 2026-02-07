@@ -1,6 +1,6 @@
 # Deepstream-Box: DBox, Out-of-the-box AI deployment tool
 
-<img src="https://github.com/user-attachments/assets/822ebbf9-7f24-47ec-81e2-7491fdf11ae5" alt="show" style="width:80%; display:block; border-radius:4px;">
+<img src="https://github.com/user-attachments/assets/f64bb3c7-b172-409f-92fc-e11db93a31e9" alt="show" style="width:90%; display:block; border-radius:5px;">
 
 Why not make the deployment process simpler and more efficient?
 
