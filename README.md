@@ -77,10 +77,10 @@ Please refer to the `docs` folder; each tutorial is divided into five detailed s
 
 | Module | Result |
 |--------|--------|
-| **Detection** | ![](https://github.com/user-attachments/assets/e815d5ff-aa25-4bab-a47f-cde270cd6927) |
-| **Action** | ![](https://github.com/user-attachments/assets/47272f7c-d6f0-4749-8594-6c19c87483c4) |
-| **Segment** | ![](https://github.com/user-attachments/assets/20c31c02-02ae-4b44-b432-044f8d8fff93) |
-| **Face** | ![](https://github.com/ppogg/DB-assets/releases/download/v0.0/face_result.mp4) |
+| **Detection** | <img src="https://github.com/user-attachments/assets/e815d5ff-aa25-4bab-a47f-cde270cd6927" width="100%"> |
+| **Action** | <img src="https://github.com/user-attachments/assets/47272f7c-d6f0-4749-8594-6c19c87483c4" width="100%"> |
+| **Segment** | <img src="https://github.com/user-attachments/assets/20c31c02-02ae-4b44-b432-044f8d8fff93" width="100%"> |
+| **Face** | <img src="https://github.com/user-attachments/assets/680dd7e2-768e-4f48-899f-0ada9c706a4d" width="100%"> |
 
 
 
