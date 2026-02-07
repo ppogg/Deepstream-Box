@@ -83,10 +83,7 @@ Please refer to the `docs` folder; each tutorial is divided into five detailed s
 
 
 
-<img src="https://github.com/user-attachments/assets/a9096ac4-fd84-4444-82c8-644e8b2d0a0f" width="50%">
-
-
-
+<img src="https://github.com/user-attachments/assets/27bb8887-0d6e-41c0-9c1f-883b3bdf430f" width="50%">
 
 
 
