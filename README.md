@@ -77,20 +77,8 @@ Please refer to the `docs` folder; each tutorial is divided into five detailed s
 
 | Module | Result |
 |:---|:---|
-|  ![Face](https://github.com/user-attachments/assets/680dd7e2-768e-4f48-899f-0ada9c706a4d)  | ![Detection](https://github.com/user-attachments/assets/e815d5ff-aa25-4bab-a47f-cde270cd6927) |
+|  ![Face](https://github.com/user-attachments/assets/27bb8887-0d6e-41c0-9c1f-883b3bdf430f)  | ![Detection](https://github.com/user-attachments/assets/e815d5ff-aa25-4bab-a47f-cde270cd6927) |
 | ![Segment](https://github.com/user-attachments/assets/20c31c02-02ae-4b44-b432-044f8d8fff93) | ![Action](https://github.com/user-attachments/assets/47272f7c-d6f0-4749-8594-6c19c87483c4) |
-
-
-
-
-<img src="https://github.com/user-attachments/assets/27bb8887-0d6e-41c0-9c1f-883b3bdf430f" width="50%">
-
-
-
-
-
-
-
 
 
 ## Reference
