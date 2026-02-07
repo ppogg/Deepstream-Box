@@ -114,7 +114,12 @@ Please refer to the `docs` folder; each tutorial is divided into five detailed s
   </tr>
 </table>
 
-
+| Module | Result |
+|--------|--------|
+| **Detection** | ![](https://github.com/user-attachments/assets/e815d5ff-aa25-4bab-a47f-cde270cd6927) |
+| **Action** | ![](https://github.com/user-attachments/assets/47272f7c-d6f0-4749-8594-6c19c87483c4) |
+| **Segment** | ![](https://github.com/user-attachments/assets/20c31c02-02ae-4b44-b432-044f8d8fff93) |
+| **Face** | ![](https://github.com/user-attachments/assets/514f80e4-38dc-4d9a-9657-8836a7b2375b) |
 
 
 
