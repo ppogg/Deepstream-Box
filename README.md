@@ -100,7 +100,7 @@ Please refer to the `docs` folder; each tutorial is divided into five detailed s
       <b>Segment</b>
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/514f80e4-38dc-4d9a-9657-8836a7b2375b" alt="Face Result" style="width:100%; display:block; border-radius:4px;">
+      <img src="https://github.com/user-attachments/assets/20c31c02-02ae-4b44-b432-044f8d8fff93" alt="Segmentation Result" style="width:100%; display:block; border-radius:4px;">
     </td>
   </tr>
   <!-- 第四行：Face -->
@@ -109,14 +109,14 @@ Please refer to the `docs` folder; each tutorial is divided into five detailed s
       <b>Face</b>
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/20c31c02-02ae-4b44-b432-044f8d8fff93" alt="Segmentation Result" style="width:100%; display:block; border-radius:4px;">
+      <img src="[https://github.com/user-attachments/assets/514f80e4-38dc-4d9a-9657-8836a7b2375b](https://github.com/user-attachments/assets/514f80e4-38dc-4d9a-9657-8836a7b2375b)" alt="Face Result" style="width:100%; display:block; border-radius:4px;">
     </td>
   </tr>
 </table>
 
 
 
-https://github.com/user-attachments/assets/514f80e4-38dc-4d9a-9657-8836a7b2375b
+
 
 
 ## Reference
