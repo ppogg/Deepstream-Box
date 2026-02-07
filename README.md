@@ -83,9 +83,13 @@ Please refer to the `docs` folder; each tutorial is divided into five detailed s
 
 
 
-<img src="https://github.com/user-attachments/assets/680dd7e2-768e-4f48-899f-0ada9c706a4d" width="50%">
+<img src="https://github.com/user-attachments/assets/5f87091f-6912-4527-8580-084dd8eba9b5" width="50%">
 
 <img src="https://github.com/user-attachments/assets/e815d5ff-aa25-4bab-a47f-cde270cd6927" width="50%">
+
+
+
+
 
 
 
